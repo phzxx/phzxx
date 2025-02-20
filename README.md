@@ -33,9 +33,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/phzxx/phzxx/output/snake.svg" alt="Snake animation" />
-
-###
